@@ -12,7 +12,7 @@ Here’s a visual summary of the project through a LinkedIn-style carousel:
   <img src="assets/carousel/Black Orange Modern Post Carousel Tips LinkedIn Carousel-07.png" width="300"/>
 </p>
 
-🔗 [View Full Carousel on LinkedIn]([https://www.linkedin.com/YOUR-CAROUSEL-LINK](https://www.linkedin.com/posts/kkrish-singh_kubernetes-mini-project-activity-7313409938230337539-cOMP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADwOBmUB7Vt2AX8KVmzb4m33VizuNVoUY0o))
+🔗 [View Full Carousel on LinkedIn](https://www.linkedin.com/posts/kkrish-singh_kubernetes-mini-project-activity-7313409938230337539-cOMP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADwOBmUB7Vt2AX8KVmzb4m33VizuNVoUY0o)
 
 ---
 
